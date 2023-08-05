@@ -231,7 +231,9 @@ img {
     letter-spacing: 0.32px;
 }
 
-.sec-three{}
+.sec-three{
+    padding-bottom: 120px;
+}
 
 .h-two {
     color: var(--navyblue, #2E2F42);
