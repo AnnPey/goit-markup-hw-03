@@ -110,6 +110,11 @@ address {}
     letter-spacing: 0.32px;
 }
 
+img {
+    display: block;
+}
+
+
 .sec {
     background: var(--navyblue, #2E2F42);
     flex-shrink: 0;
