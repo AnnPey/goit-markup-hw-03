@@ -269,6 +269,10 @@ img {
     border-radius: 0px 0px 4px 4px; 
     }
 
+.work {
+    padding: 32px 0;
+    }
+
 .p-two {
     color: #434455;
     font-family: Roboto;
