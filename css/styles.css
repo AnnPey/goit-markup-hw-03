@@ -326,6 +326,16 @@ img {
     letter-spacing: 0.64px;
 }
 
+.ullp-one{
+    justify-content: center; 
+    gap: 24px;
+    margin-bottom: 72px;
+}
+
+.ullp-two{
+
+}
+
 .iris1 {}
 
 
@@ -346,14 +356,19 @@ img {
     color:  #4d5ae5;
     background-color: #F4F4FD;
     cursor: pointer;
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc ;
+    border-radius: 4px; 
 }
 
 .all:hover {
     color: #FFFFFF;
     background-color: #404BBF ;
+    border: 1px solid transparent;
 }
 
 .all:focus {
     color: #FFFFFF;
     background-color: #404BBF;
+    border: 1px solid transparent;
 }
