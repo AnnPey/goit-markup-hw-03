@@ -59,6 +59,7 @@
 .link {
     text-decoration: none;
     color: currentColor;
+    display: inline-block;
     }
 
 .logo {
@@ -71,7 +72,6 @@
     text-transform: uppercase;
     line-height: 1.17;
     margin-right: 76px;
-    display: inline-block;
 }
 
 .logo-dark {
@@ -80,7 +80,6 @@
 
 .logo-light {
     color: var(--cloud, #F4F4FD);
-    display: inline-block;
 }
 
 .list {
