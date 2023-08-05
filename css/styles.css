@@ -218,6 +218,7 @@ img {
     line-height: 24px; /* 120% */
     letter-spacing: 0.4px;
     margin-bottom: 8px;
+    text-align: center; 
 }
 
 .p-one {
