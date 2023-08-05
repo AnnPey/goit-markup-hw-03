@@ -258,10 +258,15 @@ img {
     padding: 120px 0;
 }
 
+.ulli-three {
+    gap: 24px;
+}
+
 .li-two {
     padding-bottom: 0px;
     justify-content: center;
     background: var(--white, #FFF);
+    border-radius: 0px 0px 4px 4px; 
     }
 
 .p-two {
