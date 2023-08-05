@@ -55,7 +55,6 @@
     align-items: center;
 }
 
-.menu {}
 
 .link {
     text-decoration: none;
@@ -91,6 +90,7 @@
 .ull {
     color: #2e2f42;
     font-weight: 500;
+    padding: 24px 0;
 }
 
 .ull:hover {
