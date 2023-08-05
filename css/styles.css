@@ -84,7 +84,11 @@
 .list {
     list-style: none;
     display: flex; 
-    gap: 40px;
+    color: var(--navyblue, #2E2F42);
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 150%; 
+    letter-spacing: 0.32px;
 }
 
 .ull {
@@ -115,15 +119,6 @@ address {}
     color: #404bbf;
 }
 
-.list {
-    color: var(--navyblue, #2E2F42);
-    font-family: 'Roboto';
-    font-size: 16px;
-    line-height: 150%; 
-    letter-spacing: 0.32px;
-    list-style: none;
-}
-
 .address {
     color: var(--navyblue, #2E2F42);
     font-family: 'Roboto';
@@ -133,6 +128,11 @@ address {}
     line-height: 150%; /* 150% */
     letter-spacing: 0.32px;
 }
+
+.ulli {
+    gap: 40px;
+}
+
 
 img {
     display: block;
@@ -189,7 +189,7 @@ img {
     padding: 120px 0;
 }
 
-.ulli {
+.ulli-one {
     gap: 24px; 
 }
 
@@ -246,6 +246,11 @@ img {
     letter-spacing: 0.72px;
     text-transform: capitalize;
     line-height: 1.11;
+    margin-bottom: 72px;
+}
+
+.ulli-two {
+    gap: 24px;
 }
 
 .sec-four {
