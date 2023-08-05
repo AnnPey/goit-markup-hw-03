@@ -185,7 +185,9 @@ img {
     background-color: #404BBF;
 }
 
-.sec-two{}
+.sec-two{
+    padding: 120px 0;
+}
 
 .li-one {
 }
