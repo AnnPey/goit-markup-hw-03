@@ -333,7 +333,9 @@ img {
 }
 
 .ullp-two{
-
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px; 
 }
 
 .iris1 {}
