@@ -121,7 +121,7 @@ address {}
     font-size: 16px;
     line-height: 150%; 
     letter-spacing: 0.32px;
-    list-style: none
+    list-style: none;
 }
 
 .address {
@@ -189,6 +189,10 @@ img {
     padding: 120px 0;
 }
 
+.ulli {
+    gap: 24px; 
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -203,6 +207,7 @@ img {
   }
 
 .li-one {
+    width: calc((100% - 72px) / 4); 
 }
 
 .h-three {
@@ -213,6 +218,7 @@ img {
     font-weight: 500;
     line-height: 24px; /* 120% */
     letter-spacing: 0.4px;
+    margin-bottom: 8px;
 }
 
 .p-one {
