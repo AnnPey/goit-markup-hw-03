@@ -310,6 +310,11 @@ img {
 
 /*portfolio*/
 
+.sec-p{
+    padding-top: 96px; 
+    padding-bottom: 120px;
+}
+
 .ulp {
     text-align: center;
     /* Button Text */
