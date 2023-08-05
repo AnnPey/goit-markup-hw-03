@@ -255,6 +255,7 @@ img {
 .sec-four {
     flex-shrink: 0;
     background: var(--cloud, #F4F4FD);
+    padding: 120px 0;
 }
 
 .li-two {
