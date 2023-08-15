@@ -59,6 +59,7 @@
     text-decoration: none;
     color: currentColor;
     display: inline-block; 
+    margin-bottom: 16px; 
     }
 
 .logo {
